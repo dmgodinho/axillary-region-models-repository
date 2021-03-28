@@ -14,7 +14,7 @@ The ![\epsilon^*](https://latex.codecogs.com/svg.latex?\epsilon^*) is a complex 
 
 The dielectric properties of the tissues included in the axillary region models can be inserted in the electromagnetic simulation software inputting the Debye models parameters [1-3], as shown in Table I.
 
-![Table1](/images/table1.PNG  =150x)
+![Table1](/images/table1.PNG)
 
 ## 2. Creation of Dielectric Property Maps
 
@@ -24,7 +24,7 @@ The _label\_map_ file has a matrix where each voxel is represented by one of 7 l
 
 The _weight\_map_ file includes the weight assigned to each voxel which was calculated from the linear interpolation using the voxel intensities:
 
-![Eq2](/images/eq2.PNG =20x)
+![Eq2](/images/eq2.PNG)
 
 where _v_ is the voxel intensity, _v\_min_ and _v\_max_ and are the minimum and maximum voxel intensity of the corresponding cluster, respectively. _w_ is a value between 0 and 1.
 
