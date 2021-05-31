@@ -34,7 +34,7 @@
 
 ### 2.2	Left:
 
-![AR_004_3D_L](../images/AR_004_3D_L.PNG)
+![AR_004_3D_R](../images/AR_004_3D_R.PNG)
 
 * **Available Files:**
     1.	AR_004_L_skin (.mat/.raw/.stl)
