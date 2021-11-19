@@ -125,15 +125,15 @@ for x in range(model.shape[0]):
 
 ## 4. References
 
-[1] D. M. Godinho, J. M. Felício, T. Castela, N. A. Silva, M. L. Orvalho, C. A. Fernandes, R. C. Conceição, "MRI-based Axillary Numerical Models and Extraction of Axillary Lymph Nodes Dielectric Properties for Microwave Imaging" (under review in Medical Physics, 2021).
+[1] D. M. Godinho et al. "Development of MRI-based axillary numerical models and estimation of axillary lymph node dielectric properties for microwave imaging", Med. Phys., vol. 48, no. 10, pp. 5974–5990, 2021.
 
-[2] S. Gabriel, R. W. Lau, and C. Gabriel, "The dielectric properties of biological tissues: III Parametric models for the dielectric spectrum of tissues," Phys. Med. Biol., vol. 41, no. 11, pp. 2271–2293, 1996.
+[2] S. Gabriel, R. W. Lau, and C. Gabriel, "The dielectric properties of biological tissues: III Parametric models for the dielectric spectrum of tissues", Phys. Med. Biol., vol. 41, no. 11, pp. 2271–2293, 1996.
 
-[3] M. Lazebnik et al., "A large-scale study of the ultrawideband microwave dielectric properties of normal breast tissue obtained from reduction surgeries," Phys. Med. Biol., vol. 52, no. 10, pp. 2637–3656, 2007.
+[3] M. Lazebnik et al., "A large-scale study of the ultrawideband microwave dielectric properties of normal breast tissue obtained from reduction surgeries", Phys. Med. Biol., vol. 52, no. 10, pp. 2637–3656, 2007.
 
 
 ## Cite Us
 
 To cite this work, please cite as: 	
 
-D. M. Godinho, J. M. Felício, T. Castela, N. A. Silva, M. L. Orvalho, C. A. Fernandes, R. C. Conceição, "MRI-based Axillary Numerical Models and Extraction of Axillary Lymph Nodes Dielectric Properties for Microwave Imaging" (under review in Medical Physics, 2021).
+Godinho, DM, Felício, JM, Castela, T, et al. Development of MRI-based axillary numerical models and estimation of axillary lymph node dielectric properties for microwave imaging. Med Phys. 2021; 48:5974–5990. [https://doi.org/10.1002/mp.15143](https://doi.org/10.1002/mp.15143)

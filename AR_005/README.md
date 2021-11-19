@@ -63,4 +63,4 @@ Read "Assigning_Dielectric_Properties_to_MRI-based_Models" file located in the r
 
 If you use some of these models, please cite us with:
 
-D. M. Godinho, J. M. Felício, T. Castela, N. A. Silva, M. L. Orvalho, C. A. Fernandes, R. C. Conceição, "MRI-based Axillary Numerical Models and Extraction of Axillary Lymph Nodes Dielectric Properties for Microwave Imaging" (under review in Medical Physics, 2021).
+Godinho, DM, Felício, JM, Castela, T, et al. Development of MRI-based axillary numerical models and estimation of axillary lymph node dielectric properties for microwave imaging. Med Phys. 2021; 48:5974–5990. [https://doi.org/10.1002/mp.15143](https://doi.org/10.1002/mp.15143)
